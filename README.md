@@ -1,2 +1,3 @@
 # Python_Task
- my way of learning python
+	
+I will present the exercises I did while learning Python here, they said "It is important."
